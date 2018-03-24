@@ -4,19 +4,18 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+March 23, 2018
 
 ### Student Name:  
-(First and Last Name)
+Benjamin Landerman
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+In this assignment, I edited the photos.js file to create a photo gallery with a scrolling feature.
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://bdl16.github.io/lesson6_javascript3/
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. I learned how to use DOM methods to create new nodes to allow the user to view five photos.
+2. I learned how to clone nodes instead of repeating all the statements needed to create one.
+3. I learned how to run a for loop to change the value of each of each img src attribute.
